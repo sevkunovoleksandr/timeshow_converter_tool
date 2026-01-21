@@ -1,0 +1,191 @@
+{
+    "timeshow_id": 120,
+    "timeshow_name": "250914_01d",
+    "user_id": 3,
+    "input_type": "CSV",
+    "project": {
+        "timeshow_number": "0",
+        "export_lable": "250914_01",
+        "audio_file_lable": "Queen & David Bowie - Under Pressure",
+        "audio_file_url": "https://addondesk.com/school/wp-content/plugins/timeshow-generator/uploads/1757852486_Queen & David Bowie - Under Pressure.mp3",
+        "input_table_lable": "",
+        "input_table_url": "",
+        "song_lable": "Queen (with David Bowie) - Und",
+        "artist": "Queen",
+        "speed": "114.84375",
+        "genre": "Rock",
+        "length": "242.36408163265"
+    },
+    "stacks": [
+        {
+            "stack_id": "1000",
+            "stack_time_stamp_in": 2.519,
+            "stack_time_stamp_out": 4.632,
+            "stack_type": "Sequence",
+            "stack_lable": "Additional_2509145_01",
+            "stack_color": "4d08d9",
+            "actions": [
+                {
+                    "time_stamp": 2.519,
+                    "actions_lable": "buildup",
+                    "action_id": 1,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 3.03,
+                    "actions_lable": "drop",
+                    "action_id": 2,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 3.564,
+                    "actions_lable": "drop_1",
+                    "action_id": 3,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 4.087,
+                    "actions_lable": "drop_2",
+                    "action_id": 4,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 4.632,
+                    "actions_lable": "drop_3",
+                    "action_id": 5,
+                    "actions_type": "",
+                    "action_value": "0"
+                }
+            ]
+        },
+        {
+            "stack_id": "1001",
+            "stack_time_stamp_in": 0.104,
+            "stack_time_stamp_out": 1.962,
+            "stack_type": "Sequence",
+            "stack_lable": "Additional",
+            "stack_color": "",
+            "actions": [
+                {
+                    "time_stamp": 0.104,
+                    "actions_lable": "teppich",
+                    "action_id": 1,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 0.522,
+                    "actions_lable": "teppich_1",
+                    "action_id": 2,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 0.94,
+                    "actions_lable": "teppich_2",
+                    "action_id": 3,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 1.451,
+                    "actions_lable": "buildup",
+                    "action_id": 4,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 1.962,
+                    "actions_lable": "buildup_1",
+                    "action_id": 5,
+                    "actions_type": "",
+                    "action_value": "0"
+                }
+            ]
+        },
+        {
+            "stack_id": "501",
+            "stack_time_stamp_in": 0.104,
+            "stack_time_stamp_out": 4.632,
+            "stack_type": "Sequence",
+            "stack_lable": "Neuer_Stack",
+            "stack_color": "ff0000",
+            "actions": [
+                {
+                    "time_stamp": 0.104,
+                    "actions_lable": "teppich",
+                    "action_id": 1,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 0.522,
+                    "actions_lable": "teppich_1",
+                    "action_id": 2,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 0.94,
+                    "actions_lable": "teppich_2",
+                    "action_id": 3,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 1.451,
+                    "actions_lable": "buildup",
+                    "action_id": 4,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 1.962,
+                    "actions_lable": "buildup_1",
+                    "action_id": 5,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 2.519,
+                    "actions_lable": "buildup_2",
+                    "action_id": 6,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 3.03,
+                    "actions_lable": "drop",
+                    "action_id": 7,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 3.564,
+                    "actions_lable": "drop_1",
+                    "action_id": 8,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 4.087,
+                    "actions_lable": "drop_2",
+                    "action_id": 9,
+                    "actions_type": "",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 4.632,
+                    "actions_lable": "drop_3",
+                    "action_id": 10,
+                    "actions_type": "",
+                    "action_value": "0"
+                }
+            ]
+        }
+    ]
+}

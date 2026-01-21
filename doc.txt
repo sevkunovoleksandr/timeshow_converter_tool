@@ -1,0 +1,28 @@
+0. (Navigate to this folder in PowerShell or bash)
+
+1. Create the enviroment:
+	python -m venv env
+
+2. Activate the enviroment:
+	(from windows PowerShell)
+		.\env\Scripts\Activate.ps1
+	(on linux?)
+		./env/Scripts/activate
+
+3. Install libraries: (from generated requirements file)
+	pip install -r requirements.txt
+
+4. Test the scripts: (in test mode)
+	py tsc.py test
+	py tsc_api.py test
+
+5. Deploy the webserver: (across multiple threads)
+	uvicorn tsc_api:app --host 0.0.0.0 --port 8081 --workers 4
+	or: (may be more performant)
+		uvicorn tsc_api:app --host 0.0.0.0 --port 8081 --workers 4 --log-level warning --no-access-log
+
+6. Run the user simulation webapp: (to test scalability)
+	locust -f locustfile.py --host http://localhost:8081
+	(now visit http://localhost:8089/ to start a load test)
+
+Check 'config.py' for extra configuration options.

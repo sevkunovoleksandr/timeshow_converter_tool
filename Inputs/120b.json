@@ -1,0 +1,423 @@
+{
+    "timeshow_id": 175,
+    "timeshow_name": "250923_02",
+    "user_id": 3,
+    "input_type": "CSV",
+    "project": {
+        "timeshow_number": "52",
+        "export_lable": "250923_02",
+        "audio_file_lable": "Captain-Future",
+        "audio_file_url": "https://addondesk.com/school/wp-content/plugins/timeshow-generator/uploads/1758626993_Captain-Future.mp3",
+        "input_table_lable": "",
+        "input_table_url": "",
+        "song_lable": "",
+        "artist": "",
+        "speed": "126.04801829268",
+        "genre": "",
+        "length": "29.884081632653"
+    },
+    "stacks": [
+        {
+            "stack_id": 452,
+            "stack_time_stamp_in": 0.348,
+            "stack_time_stamp_out": 26.68,
+            "stack_type": "Sequence",
+            "stack_lable": "Test_heute",
+            "stack_color": "674113",
+            "actions": [
+                {
+                    "time_stamp": 0.348,
+                    "actions_lable": "ein?",
+                    "action_id": 1,
+                    "actions_type": "goto",
+                    "action_value": "2"
+                },
+                {
+                    "time_stamp": 0.824,
+                    "actions_lable": "zweiÜ",
+                    "action_id": 2,
+                    "actions_type": "goto",
+                    "action_value": "2"
+                },
+                {
+                    "time_stamp": 1.3,
+                    "actions_lable": "Drei ÄÜÖ",
+                    "action_id": 3,
+                    "actions_type": "goto",
+                    "action_value": "2"
+                },
+                {
+                    "time_stamp": 1.776,
+                    "actions_lable": "ruhe1",
+                    "action_id": 4,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 2.252,
+                    "actions_lable": "ruhe2",
+                    "action_id": 5,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 2.74,
+                    "actions_lable": "ruhe3",
+                    "action_id": 6,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 3.204,
+                    "actions_lable": "ruhe4",
+                    "action_id": 7,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 3.692,
+                    "actions_lable": "Teppich1",
+                    "action_id": 8,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 4.168,
+                    "actions_lable": "Teppich2",
+                    "action_id": 9,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 4.656,
+                    "actions_lable": "Teppich3",
+                    "action_id": 10,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 5.132,
+                    "actions_lable": "Teppich4",
+                    "action_id": 11,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 5.619,
+                    "actions_lable": "Teppich5",
+                    "action_id": 12,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 6.107,
+                    "actions_lable": "Teppich6",
+                    "action_id": 13,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 6.583,
+                    "actions_lable": "Teppich7",
+                    "action_id": 14,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 7.059,
+                    "actions_lable": "Teppich8",
+                    "action_id": 15,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 7.546,
+                    "actions_lable": "Teppich9",
+                    "action_id": 16,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 8.022,
+                    "actions_lable": "Teppich11",
+                    "action_id": 17,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 8.499,
+                    "actions_lable": "Teppich12",
+                    "action_id": 18,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 8.975,
+                    "actions_lable": "Teppich13",
+                    "action_id": 19,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 9.451,
+                    "actions_lable": "Teppich14",
+                    "action_id": 20,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 9.938,
+                    "actions_lable": "Teppich15",
+                    "action_id": 21,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 10.414,
+                    "actions_lable": "Teppich16",
+                    "action_id": 22,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 10.879,
+                    "actions_lable": "buildUp1",
+                    "action_id": 23,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 11.355,
+                    "actions_lable": "buildUp2",
+                    "action_id": 24,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 11.842,
+                    "actions_lable": "buildUp3",
+                    "action_id": 25,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 12.33,
+                    "actions_lable": "buildUp4",
+                    "action_id": 26,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 12.794,
+                    "actions_lable": "buildUp5",
+                    "action_id": 27,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 13.282,
+                    "actions_lable": "buildUp6",
+                    "action_id": 28,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 13.758,
+                    "actions_lable": "buildUp7",
+                    "action_id": 29,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 14.245,
+                    "actions_lable": "buildUp8",
+                    "action_id": 30,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 14.71,
+                    "actions_lable": "buildUp9",
+                    "action_id": 31,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 15.197,
+                    "actions_lable": "buildUp21",
+                    "action_id": 32,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 15.673,
+                    "actions_lable": "buildU22",
+                    "action_id": 33,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 16.149,
+                    "actions_lable": "buildUp23",
+                    "action_id": 34,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 16.625,
+                    "actions_lable": "buildUp24",
+                    "action_id": 35,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 17.101,
+                    "actions_lable": "buildUp25",
+                    "action_id": 36,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 17.589,
+                    "actions_lable": "buildUp26",
+                    "action_id": 37,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 18.065,
+                    "actions_lable": "buildUp27",
+                    "action_id": 38,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 18.553,
+                    "actions_lable": "buildUp28",
+                    "action_id": 39,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 19.029,
+                    "actions_lable": "buildUp29",
+                    "action_id": 40,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 19.516,
+                    "actions_lable": "buildUp31",
+                    "action_id": 41,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 19.992,
+                    "actions_lable": "buildUp32",
+                    "action_id": 42,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 20.468,
+                    "actions_lable": "buildUp33",
+                    "action_id": 43,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 20.944,
+                    "actions_lable": "buildUp34",
+                    "action_id": 44,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 21.42,
+                    "actions_lable": "buildUp35",
+                    "action_id": 45,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 21.896,
+                    "actions_lable": "buildUp36",
+                    "action_id": 46,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 22.372,
+                    "actions_lable": "drop37",
+                    "action_id": 47,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 22.848,
+                    "actions_lable": "drop38",
+                    "action_id": 48,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 23.324,
+                    "actions_lable": "drop",
+                    "action_id": 49,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 23.8,
+                    "actions_lable": "drop39",
+                    "action_id": 50,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 24.288,
+                    "actions_lable": "drop41",
+                    "action_id": 51,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 24.764,
+                    "actions_lable": "drop42",
+                    "action_id": 52,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 25.252,
+                    "actions_lable": "drop43",
+                    "action_id": 53,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 25.728,
+                    "actions_lable": "drop44",
+                    "action_id": 54,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 26.204,
+                    "actions_lable": "drop45",
+                    "action_id": 55,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                },
+                {
+                    "time_stamp": 26.68,
+                    "actions_lable": "drop46",
+                    "action_id": 56,
+                    "actions_type": "goto",
+                    "action_value": "0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.3.1.1">
+    <Timecode Name="250923_02" Guid="36 83 1A C5 DE A2 4A A3 A2 E6 E7 62 F6 BC 80 DB" Cursor="0.0" Duration="29.88" LoopCount="0" TCSlot="-1" AutoStop="No" SwitchOff="Keep Playbacks" TimeDisplayFormat="Default" FrameReadout="Seconds">
+        <TrackGroup Play="" Rec="">
+            <MarkerTrack Name="Marker" Guid="6F AA 65 44 7A 06 4A F2 85 C4 D3 45 D6 FE BD C7"/>
+            <Track Name="Test_heute" Guid="EF F7 33 D2 C2 11 46 EA A7 18 6B BD 3E 16 F7 00" Target="ShowData.DataPools.Default.Sequences.Test_heute" Play="" Rec="">
+                <TimeRange Guid="A8 4F 1F 68 A3 57 48 42 8E A3 8D EB 07 D3 C2 49" Duration="To End" Play="" Rec="">
+                    <CmdSubTrack>
+                        <CmdEvent Name="Goto" Time="0.35" CueDestination="ein">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.ein"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="0.82" CueDestination="zweiÜ">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.zweiÜ"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="1.30" CueDestination="Drei ÄÜÖ">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Drei ÄÜÖ"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="1.78" CueDestination="ruhe1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.ruhe1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="2.25" CueDestination="ruhe2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.ruhe2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="2.74" CueDestination="ruhe3">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.ruhe3"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="3.20" CueDestination="ruhe4">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.ruhe4"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="3.69" CueDestination="Teppich1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="4.17" CueDestination="Teppich2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="4.66" CueDestination="Teppich3">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich3"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="5.13" CueDestination="Teppich4">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich4"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="5.62" CueDestination="Teppich5">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich5"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="6.11" CueDestination="Teppich6">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich6"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="6.58" CueDestination="Teppich7">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich7"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="7.06" CueDestination="Teppich8">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich8"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="7.55" CueDestination="Teppich9">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich9"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="8.02" CueDestination="Teppich11">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich11"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="8.50" CueDestination="Teppich12">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich12"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="8.97" CueDestination="Teppich13">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich13"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="9.45" CueDestination="Teppich14">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich14"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="9.94" CueDestination="Teppich15">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich15"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="10.41" CueDestination="Teppich16">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.Teppich16"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="10.88" CueDestination="buildUp1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="11.36" CueDestination="buildUp2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="11.84" CueDestination="buildUp3">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp3"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="12.33" CueDestination="buildUp4">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp4"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="12.79" CueDestination="buildUp5">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp5"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="13.28" CueDestination="buildUp6">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp6"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="13.76" CueDestination="buildUp7">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp7"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="14.24" CueDestination="buildUp8">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp8"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="14.71" CueDestination="buildUp9">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp9"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="15.20" CueDestination="buildUp21">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp21"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="15.67" CueDestination="buildU22">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildU22"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="16.15" CueDestination="buildUp23">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp23"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="16.62" CueDestination="buildUp24">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp24"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="17.10" CueDestination="buildUp25">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp25"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="17.59" CueDestination="buildUp26">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp26"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="18.07" CueDestination="buildUp27">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp27"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="18.55" CueDestination="buildUp28">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp28"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="19.03" CueDestination="buildUp29">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp29"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="19.52" CueDestination="buildUp31">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp31"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="19.99" CueDestination="buildUp32">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp32"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="20.47" CueDestination="buildUp33">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp33"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="20.94" CueDestination="buildUp34">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp34"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="21.42" CueDestination="buildUp35">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp35"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="21.90" CueDestination="buildUp36">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.buildUp36"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="22.37" CueDestination="drop37">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop37"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="22.85" CueDestination="drop38">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop38"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="23.32" CueDestination="drop">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="23.80" CueDestination="drop39">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop39"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="24.29" CueDestination="drop41">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop41"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="24.76" CueDestination="drop42">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop42"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="25.25" CueDestination="drop43">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop43"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="25.73" CueDestination="drop44">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop44"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="26.20" CueDestination="drop45">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop45"/>
+                        </CmdEvent>
+                        <CmdEvent Name="Goto" Time="26.68" CueDestination="drop46">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Test_heute" ExecToken="Goto" ValCueDestination="Default.Sequences.Test_heute.drop46"/>
+                        </CmdEvent>
+                    </CmdSubTrack>
+                </TimeRange>
+            </Track>
+        </TrackGroup>
+    </Timecode>
+</GMA3>

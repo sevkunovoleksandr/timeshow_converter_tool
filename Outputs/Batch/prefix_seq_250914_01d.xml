@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.3.1.1">
+    <Sequence Name="Additional_2509145_01" Guid="0E 8F 5E 89 C7 32 4E BD 87 E3 BC 02 3A 96 6C 96" Appearance="TC_Color_4d08d9" AutoStart="Yes" AutoStop="Yes" AutoFix="No" AutoStomp="No" SoftLTP="Yes" XFadeReload="No" SwapProtect="No" KillProtect="No" UseExecutorTime="Yes" OffwhenOverridden="Yes" SequMIB="Enabled" AutoPrePos="No" WrapAround="Yes" MasterGoMode="None" SpeedfromRate="No" Tracking="Yes" IncludeLinkLastGo="Yes" RateScale="One" SpeedScale="One" PreferCueAppearance="No" ExecutorDisplayMode="Both" Action="Toggle">
+        <DependencyExport Size="1">
+            <Dependency RelAddr="ShowData.Appearances.TC_Color_4d08d9">
+                <Appearance Name="TC_Color_4d08d9" Guid="0B E6 EF 47 54 24 4B 59 AC 4E 59 91 12 27 0D 2D" Color="1.0000000000,1.0000000000,1.0000000000,1.0000000000" BackR="77" BackG="8" BackB="217" BackAlpha="255"/>
+            </Dependency>
+        </DependencyExport>
+        <Cue Name="OffCue" Release="Yes" Assert="Assert" AllowDuplicates="" TrigType="">
+            <Part Guid="B8 07 1C 2A E5 4C 44 D8 A3 B3 59 29 D8 A9 86 C4" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default"/>
+        </Cue>
+        <Cue Name="CueZero" No="0">
+            <Part Guid="4E 5B 8A E3 38 11 4B A3 88 07 81 47 D4 D0 24 C4" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default"/>
+        </Cue>
+        <Cue Name="buildup" No="1" AllowDuplicates="">
+            <Part Name="buildup" Guid="EB 1A 60 3C 72 BF 4D E7 9D CA 8E 64 5F 7E AD B6" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop" No="2" AllowDuplicates="">
+            <Part Name="drop" Guid="05 B1 B1 3B 61 0A 43 D0 BB 33 7E FF D1 97 54 42" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop_1" No="3" AllowDuplicates="">
+            <Part Name="drop_1" Guid="85 B1 2F 99 B0 54 42 E6 A7 E9 DF 57 B6 EE BE 52" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop_2" No="4" AllowDuplicates="">
+            <Part Name="drop_2" Guid="81 0D 8B E2 C6 A2 43 43 8B 58 21 04 14 C2 7B 3B" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop_3" No="5" AllowDuplicates="">
+            <Part Name="drop_3" Guid="25 5F AB BA DB 00 4C 98 9D AB D0 C0 85 FC 38 74" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+    </Sequence>
+    <Sequence Name="Additional" Guid="F5 6E 9E A9 B9 C6 4E B0 A0 03 26 39 DD A8 70 06" Appearance="" AutoStart="Yes" AutoStop="Yes" AutoFix="No" AutoStomp="No" SoftLTP="Yes" XFadeReload="No" SwapProtect="No" KillProtect="No" UseExecutorTime="Yes" OffwhenOverridden="Yes" SequMIB="Enabled" AutoPrePos="No" WrapAround="Yes" MasterGoMode="None" SpeedfromRate="No" Tracking="Yes" IncludeLinkLastGo="Yes" RateScale="One" SpeedScale="One" PreferCueAppearance="No" ExecutorDisplayMode="Both" Action="Toggle">
+        <Cue Name="OffCue" Release="Yes" Assert="Assert" AllowDuplicates="" TrigType="">
+            <Part Guid="2D 12 71 A0 E8 3C 48 6D 82 EE C9 95 1A 1A 49 29" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default"/>
+        </Cue>
+        <Cue Name="CueZero" No="0">
+            <Part Guid="1A C6 CD 48 5A 38 42 CB A0 3F 31 3E 42 47 D5 D2" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default"/>
+        </Cue>
+        <Cue Name="teppich" No="1" AllowDuplicates="">
+            <Part Name="teppich" Guid="9E 2A 43 04 3A C1 4C A0 97 80 17 BC CE A6 7E B6" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="teppich_1" No="2" AllowDuplicates="">
+            <Part Name="teppich_1" Guid="1F 0F 99 62 12 E6 4D 51 BB 3E 10 D1 86 7F 30 4E" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="teppich_2" No="3" AllowDuplicates="">
+            <Part Name="teppich_2" Guid="24 9F D0 54 39 DF 42 B2 AD AB 64 3C 67 92 92 15" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="buildup" No="4" AllowDuplicates="">
+            <Part Name="buildup" Guid="06 CA 6E 39 BA 98 4B BE 8C 4C 60 1A 1F 51 49 ED" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="buildup_1" No="5" AllowDuplicates="">
+            <Part Name="buildup_1" Guid="2A DF 35 7F EB A2 4A 59 AA 39 AD C6 1D 8C EE 38" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+    </Sequence>
+    <Sequence Name="Neuer_Stack" Guid="D5 D2 ED B9 0C 94 42 D4 AB 7B FF 1A A8 47 9E 2D" Appearance="TC_Color_ff0000" AutoStart="Yes" AutoStop="Yes" AutoFix="No" AutoStomp="No" SoftLTP="Yes" XFadeReload="No" SwapProtect="No" KillProtect="No" UseExecutorTime="Yes" OffwhenOverridden="Yes" SequMIB="Enabled" AutoPrePos="No" WrapAround="Yes" MasterGoMode="None" SpeedfromRate="No" Tracking="Yes" IncludeLinkLastGo="Yes" RateScale="One" SpeedScale="One" PreferCueAppearance="No" ExecutorDisplayMode="Both" Action="Toggle">
+        <DependencyExport Size="1">
+            <Dependency RelAddr="ShowData.Appearances.TC_Color_ff0000">
+                <Appearance Name="TC_Color_ff0000" Guid="2C 65 F0 1E 51 3C 4A 80 A0 D5 7B 51 8F 4F DF A0" Color="1.0000000000,1.0000000000,1.0000000000,1.0000000000" BackR="255" BackG="0" BackB="0" BackAlpha="255"/>
+            </Dependency>
+        </DependencyExport>
+        <Cue Name="OffCue" Release="Yes" Assert="Assert" AllowDuplicates="" TrigType="">
+            <Part Guid="AA 69 9C 49 5E F4 40 FE AC 00 60 3B 13 11 7E 84" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default"/>
+        </Cue>
+        <Cue Name="CueZero" No="0">
+            <Part Guid="4E 04 7F 69 95 0E 4A 5D A0 37 BD 48 DC 2B A3 FA" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default"/>
+        </Cue>
+        <Cue Name="teppich" No="1" AllowDuplicates="">
+            <Part Name="teppich" Guid="6C E2 DA 77 3A 1B 40 FD A8 0D 38 1B D1 59 2D 07" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="teppich_1" No="2" AllowDuplicates="">
+            <Part Name="teppich_1" Guid="6F 74 C1 05 BE 45 4A 9B A3 11 3C 12 5E DF 52 7B" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="teppich_2" No="3" AllowDuplicates="">
+            <Part Name="teppich_2" Guid="3F DC BD 8E 0F 9D 47 03 9D 26 B3 90 15 8F 42 7C" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="buildup" No="4" AllowDuplicates="">
+            <Part Name="buildup" Guid="AF 28 52 07 8D F6 45 9D A6 05 6C 3E 0C 5C 93 1F" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="buildup_1" No="5" AllowDuplicates="">
+            <Part Name="buildup_1" Guid="21 02 9C 77 E9 37 4E A4 95 DA 2A B4 DD 41 75 54" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="buildup_2" No="6" AllowDuplicates="">
+            <Part Name="buildup_2" Guid="32 0C C0 9E 0C 62 4B E3 95 15 40 07 88 BA 90 18" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop" No="7" AllowDuplicates="">
+            <Part Name="drop" Guid="1E E8 61 8D F8 2D 45 5C BB 10 A9 F7 FB 55 93 5A" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop_1" No="8" AllowDuplicates="">
+            <Part Name="drop_1" Guid="4D 32 00 76 43 9D 4E 39 82 53 5C 77 74 36 72 9E" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop_2" No="9" AllowDuplicates="">
+            <Part Name="drop_2" Guid="1A A3 AF 14 A5 E2 40 81 A1 A0 CE B8 30 DC FE F0" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+        <Cue Name="drop_3" No="10" AllowDuplicates="">
+            <Part Name="drop_3" Guid="F2 AA 41 7C 39 B0 47 AC AE CD 45 BA 65 C1 80 E6" AlignRangeX="No" AlignRangeY="No" AlignRangeZ="No" PreserveGridPositions="No" MAgic="No" Mode="0" Action="Pool Default" Sync="" Morph="" CueInFade="0"/>
+        </Cue>
+    </Sequence>
+</GMA3>

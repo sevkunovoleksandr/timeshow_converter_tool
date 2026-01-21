@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.3.1.1">
+    <Timecode Name="250914_01" Guid="5E F8 34 DE FC 53 44 BB AC 65 B7 C2 BA A7 7E 3F" Cursor="0.0" Duration="242.36" LoopCount="0" TCSlot="-1" AutoStop="No" SwitchOff="Keep Playbacks" TimeDisplayFormat="Default" FrameReadout="Seconds">
+        <TrackGroup Play="" Rec="">
+            <MarkerTrack Name="Marker" Guid="EA 40 B1 C9 51 49 48 77 AE A0 09 AD 41 6D A6 EE"/>
+            <Track Name="Additional_2509145_01" Guid="9B 52 0E CF 19 15 45 80 B8 39 A7 CD 87 97 7F 5A" Target="ShowData.DataPools.Default.Sequences.Additional_2509145_01" Play="" Rec="">
+                <TimeRange Guid="42 7B F2 43 08 81 4B FE BF 4C B8 60 DA F0 FC 86" Duration="To End" Play="" Rec="">
+                    <CmdSubTrack>
+                        <CmdEvent Name="" Time="2.52" CueDestination="buildup">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional_2509145_01" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional_2509145_01.buildup"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="3.03" CueDestination="drop">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional_2509145_01" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional_2509145_01.drop"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="3.56" CueDestination="drop_1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional_2509145_01" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional_2509145_01.drop_1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="4.09" CueDestination="drop_2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional_2509145_01" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional_2509145_01.drop_2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="4.63" CueDestination="drop_3">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional_2509145_01" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional_2509145_01.drop_3"/>
+                        </CmdEvent>
+                    </CmdSubTrack>
+                </TimeRange>
+            </Track>
+            <Track Name="Additional" Guid="1A 01 E2 6D FA B9 43 E0 81 A9 9A 1F 49 A9 D0 9B" Target="ShowData.DataPools.Default.Sequences.Additional" Play="" Rec="">
+                <TimeRange Guid="CB 3A A3 8A 0C 7C 4E 56 9C 06 52 15 94 D7 7E 25" Duration="To End" Play="" Rec="">
+                    <CmdSubTrack>
+                        <CmdEvent Name="" Time="0.10" CueDestination="teppich">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional.teppich"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="0.52" CueDestination="teppich_1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional.teppich_1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="0.94" CueDestination="teppich_2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional.teppich_2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="1.45" CueDestination="buildup">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional.buildup"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="1.96" CueDestination="buildup_1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Additional" ExecToken="Goto" ValCueDestination="Default.Sequences.Additional.buildup_1"/>
+                        </CmdEvent>
+                    </CmdSubTrack>
+                </TimeRange>
+            </Track>
+            <Track Name="Neuer_Stack" Guid="D0 83 E4 0A C9 17 4B 37 89 2F 7A BC 42 AE A1 0D" Target="ShowData.DataPools.Default.Sequences.Neuer_Stack" Play="" Rec="">
+                <TimeRange Guid="F7 E1 E7 CD 83 9D 45 03 A1 48 59 36 8D 7D F9 0A" Duration="To End" Play="" Rec="">
+                    <CmdSubTrack>
+                        <CmdEvent Name="" Time="0.10" CueDestination="teppich">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.teppich"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="0.52" CueDestination="teppich_1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.teppich_1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="0.94" CueDestination="teppich_2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.teppich_2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="1.45" CueDestination="buildup">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.buildup"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="1.96" CueDestination="buildup_1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.buildup_1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="2.52" CueDestination="buildup_2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.buildup_2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="3.03" CueDestination="drop">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.drop"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="3.56" CueDestination="drop_1">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.drop_1"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="4.09" CueDestination="drop_2">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.drop_2"/>
+                        </CmdEvent>
+                        <CmdEvent Name="" Time="4.63" CueDestination="drop_3">
+                            <RealtimeCmd Type="Key" Source="Original" UserProfile="1" User="1" Status="On" IsRealtime="0" IsXFade="0" IgnoreFollow="0" IgnoreCommand="0" Assert="0" IgnoreNetwork="0" FromTriggerNode="0" IgnoreExecTime="0" IssuedByTimecode="0" FromLocalHardwareFader="1" IgnoreExecXFade="0" IsExecXFade="0" Object="ShowData.DataPools.Default.Sequences.Neuer_Stack" ExecToken="Goto" ValCueDestination="Default.Sequences.Neuer_Stack.drop_3"/>
+                        </CmdEvent>
+                    </CmdSubTrack>
+                </TimeRange>
+            </Track>
+        </TrackGroup>
+    </Timecode>
+</GMA3>
